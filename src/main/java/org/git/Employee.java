@@ -5,8 +5,7 @@ public class Employee {
     String name;
     String family;
 
-    public Employee(int age, String name, String family) {
-        this.age = age;
+    public Employee(String name, String family) {
         this.name = name;
         this.family = family;
     }
