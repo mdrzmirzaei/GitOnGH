@@ -4,11 +4,7 @@ public class SaminClass {
 
     int newAge;
     String newmanager;
-
-
-    public void sayhello(){
-        System.out.println("hello my darling");
-    }
+    
 
     public int getNewAge() {
         return newAge;
