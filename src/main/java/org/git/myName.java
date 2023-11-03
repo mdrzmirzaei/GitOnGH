@@ -1,4 +1,5 @@
-package org.git
+package org.git;
+
 public class MYNAME {
 
 void m(){
